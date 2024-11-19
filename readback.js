@@ -1,5 +1,5 @@
 alert("Increase your volume!")
-let radio = ['Alpha','Bravo','Charlie','Delta','Echo','Foxtrot','Golf','Hotel','India','Juliet','Kilo','Lima','Mike','November','Oscar','Papa','Quebec','Romeo','Sierra','Tango','Uniform','Victor','Whiskey','Yankee','Zulu']
+let radio = ['Alpha','Bravo','Charlie','Delta','Echo','Foxtrot','Golf','Hotel','India','Juliet','Kilo','Lima','Mike','November','Oscar','Papa','Quebec','Romeo','Sierra','Tango','Uniform','Victor','Whiskey','X ray','Yankee','Zulu']
 
 //First Random word
 let a = radio[Math.floor(Math.random()*radio.length)]
